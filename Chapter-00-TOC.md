@@ -11,7 +11,7 @@ Robert A. Margo
 **第2章** 经济史中的两次革命 ...... 17  
 Martina Cioni、Giovanni Federico 和 Michelangelo Vasta  
 
-**第3章** 历史作为进化 ...... 41  
+**第3章** 历史作为演化过程 ...... 41  
 Nathan Nunn  
 
 ## 第二部分 来源与方法
@@ -34,7 +34,7 @@ Davide Cantoni 和 Noam Yuchtman
 **第9章** 持续性——神话与谜团 ...... 243  
 Hans-Joachim Voth  
 
-**第10章** 历史的局部平均处理效应（LATE） ...... 269  
+**第10章** 历史研究中的局部平均处理效应（LATE） ...... 269  
 Alberto Bisin 和 Andrea Moro  
 
 **第11章** 长期与短期历史事件的动态一般均衡建模 ...... 297  
@@ -48,10 +48,10 @@ Eric Monnet 和 François R. Velde
 **第13章** 制度变迁与制度持续性 ...... 365  
 Daron Acemoglu、Georgy Egorov 和 Konstantin Sonin  
 
-**第14章** 制度与文化如何变化：进化视角 ...... 391  
+**第14章** 制度与文化如何变迁：一种演化视角 ...... 391  
 Samuel Bowles、Jung-Kyoo Choi、Sung-Ha Hwang 和 Suresh Naidu  
 
-**第15章** 国家权力与冲突驱动的进化 ...... 435  
+**第15章** 国家权力与冲突驱动的演化 ...... 435  
 David K. Levine 和 Salvatore Modica  
 
 **第16章** 文化、制度与政策 ...... 463  
@@ -66,7 +66,7 @@ Giovanni Federico
 **第19章** 为什么非洲并不那么贫穷 ...... 557  
 Ewout Frankema  
 
-**第20章** 宗教在经济史中的综述 ...... 585  
+**第20章** 经济史中的宗教：一个综述 ...... 585  
 Sascha O. Becker、Jared Rubin 和 Ludger Woessmann  
 
 **第21章** 持续的失败？二战以来的国际干预 ...... 641  
@@ -78,22 +78,22 @@ Quamrui H. Ashraf、Oded Galor 和 Marc Klemp
 **第23章** 历史经济学中的社会流动性 ...... 719  
 Gregory Clark  
 
-**第24章** 工业革命与大分流：历史国民账户的最新发现 ...... 749  
+**第24章** 工业革命与大分流：历史国民核算的近期发现 ...... 749  
 Stephen Broadberry  
 
-**第25章** 态度、能力与大富足的根源 ...... 773  
+**第25章** 态度、能力与“大繁荣”的根源 ...... 773  
 Joel Mokyr  
 
 **第26章** 工资、技术与全球化的相互作用：劳动力市场与不平等，1620-2020 ...... 795  
 Robert C. Allen  
 
-**第27章** 八场美国战争与两次叛乱中的债务与税收 ...... 825  
+**第27章** 美国八次参战与两次叛乱中的债务和税收 ...... 825  
 George J. Hall 和 Thomas J. Sargent  
 
-**第28章** 生物地理学、书写与国家的起源 ...... 881  
+**第28章** 生物地理、书写系统与国家的起源 ...... 881  
 David Stasavage  
 
-**第29章** 妻子的保护者：避孕技术与婚姻减少的定量理论 ...... 903  
+**第29章** “妻子的保护者”：一种将避孕技术与婚姻衰退联系起来的量化理论 ...... 903  
 Jeremy Greenwood、Nezih Guner 和 Karen A. Kopecky  
 
 **索引** ...... 945

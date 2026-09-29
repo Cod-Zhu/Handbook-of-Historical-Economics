@@ -1,4 +1,4 @@
-# 第7章 历史计量经济学：工具变量与回归不连续设计
+# 第7章 历史计量经济学：工具变量与断点回归设计
 
 **作者**：
 - Felipe Valencia Caicedo. Vancouver School of Economics, University of British Columbia, Vancouver, BC, Canada; CEPR, London, United Kingdom; IZA, Bonn, Germany.

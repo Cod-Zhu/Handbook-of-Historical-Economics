@@ -1,4 +1,4 @@
-# 第20章 经济史中的宗教：综述
+# 第20章 经济史中的宗教：一个综述
 
 **作者**：
 - Sascha O. Becker. Monash University, Melbourne, Victoria, Australia; University of Warwick, Coventry, United Kingdom; CAGE, Coventry, United Kingdom; CEPR, London, United Kingdom; CESifo, Munich, Germany; IZA, Bonn, Germany; ROA, Maastricht, Netherlands; ifo Institute, Munich, Germany.

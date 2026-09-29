@@ -1,4 +1,4 @@
-# 第8章 历史自然实验：连接经济学与经济史
+# 第8章 历史自然实验：桥接经济学与经济史
 
 **作者**：
 - Davide Cantoni. Ludwig-Maximilians-Universität Munich, Munich, Germany; CEPR, London, United Kingdom; CESifo, Munich, Germany.

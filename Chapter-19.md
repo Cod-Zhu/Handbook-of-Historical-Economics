@@ -1,4 +1,4 @@
-# 第19章 非洲为什么没有那么贫穷
+# 第19章 为什么非洲并不那么贫穷
 
 **作者**：
 - Ewout Frankema. Wageningen University, Wageningen, The Netherlands.

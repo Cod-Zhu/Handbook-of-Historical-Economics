@@ -1,4 +1,4 @@
-# 第11章 长短期历史事件的动态一般均衡建模
+# 第11章 长期与短期历史事件的动态一般均衡建模
 
 **作者**：
 - Gary D. Hansen. UCLA, Los Angeles, CA, United States; NBER, Cambridge, MA, United States.
