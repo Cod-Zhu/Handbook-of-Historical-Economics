@@ -211,6 +211,8 @@ $$
 
 ### 16.4.4 均衡制度
 
+![原章图 16.2：不同参数条件下的制度均衡](images/handbook/chapter-16-fig-16.2-institutional-equilibria.png)
+
 命题 16.2 表明，存在由 $\Phi(\tilde\gamma)=0$ 定义的文化门槛 $\tilde\gamma$，使均衡制度为
 
 $$
